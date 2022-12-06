@@ -13,6 +13,6 @@ This is a solution to the [Frontend Mentor - NFT preview card component](https:/
 
  #### Links
 
-[Netlify]()
+[Netlify](https://nftcardpreview-gm.netlify.app/)
 
-[FrontEndMentor]()
+[FrontEndMentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-7bsyVUyCSD)
